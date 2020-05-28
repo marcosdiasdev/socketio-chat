@@ -6,5 +6,5 @@ A simple web chat made with Socket.IO.
 
 ```
 npm install
-node start
+npm start
 ```
